@@ -1,0 +1,39 @@
+Metric Results (KNN Multiclass)
+==================================
+Class: Orange
+Mean IoU: 0.0104
+Mean Dice: 0.0190
+Mean Precision: 0.0453
+Mean Recall: 0.0185
+Mean Accuracy: 0.9617
+----------------------------------
+Class: Green
+Mean IoU: 0.0891
+Mean Dice: 0.1596
+Mean Precision: 0.2051
+Mean Recall: 0.1894
+Mean Accuracy: 0.7822
+----------------------------------
+Class: Light Yellow (Empty Space)
+Mean IoU: 0.4294
+Mean Dice: 0.5701
+Mean Precision: 0.6078
+Mean Recall: 0.5836
+Mean Accuracy: 0.9192
+----------------------------------
+Class: Blue
+Mean IoU: 0.1047
+Mean Dice: 0.1708
+Mean Precision: 0.2656
+Mean Recall: 0.1709
+Mean Accuracy: 0.7438
+----------------------------------
+Class: Magenta
+Mean IoU: 0.4938
+Mean Dice: 0.6506
+Mean Precision: 0.6061
+Mean Recall: 0.7347
+Mean Accuracy: 0.6385
+----------------------------------
+Global Accuracy (average across images): 0.5227
+Mean genericSegEvaluation Error: 0.4773

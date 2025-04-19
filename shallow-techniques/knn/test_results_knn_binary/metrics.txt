@@ -1,0 +1,18 @@
+Metric Results (KNN Binary)
+==================================
+Class: Empty Space
+Mean IoU: 0.3341
+Mean Dice: 0.4896
+Mean Precision: 0.6503
+Mean Recall: 0.4429
+Mean Accuracy: 0.7970
+----------------------------------
+Class: Non Empty Space
+Mean IoU: 0.7720
+Mean Dice: 0.8701
+Mean Precision: 0.8405
+Mean Recall: 0.9131
+Mean Accuracy: 0.7970
+----------------------------------
+Global Accuracy (average across images): 0.7970
+Mean genericSegEvaluation Error: 0.2030

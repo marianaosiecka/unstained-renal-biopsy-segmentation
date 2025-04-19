@@ -1,0 +1,34 @@
+Metric Results (K-Means 5 Classes)
+==================================
+Class: Orange
+Mean IoU: 0.0228
+Mean Dice: 0.0436
+Mean Precision: 0.0333
+Mean Recall: 0.1053
+----------------------------------
+Class: Green
+Mean IoU: 0.1016
+Mean Dice: 0.1822
+Mean Precision: 0.1407
+Mean Recall: 0.2631
+----------------------------------
+Class: Light Yellow
+Mean IoU: 0.3057
+Mean Dice: 0.4533
+Mean Precision: 0.5955
+Mean Recall: 0.5071
+----------------------------------
+Class: Blue
+Mean IoU: 0.1488
+Mean Dice: 0.2519
+Mean Precision: 0.2542
+Mean Recall: 0.2763
+----------------------------------
+Class: Magenta
+Mean IoU: 0.2376
+Mean Dice: 0.3816
+Mean Precision: 0.5687
+Mean Recall: 0.2927
+----------------------------------
+Mean Accuracy: 0.3158
+Mean genericSegEvaluation Error: 0.6842

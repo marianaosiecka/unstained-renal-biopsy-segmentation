@@ -1,0 +1,16 @@
+Metric Results (K-Means Binary)
+==================================
+Class: Empty Space (Black)
+Mean IoU: 0.2359
+Mean Dice: 0.3631
+Mean Precision: 0.2760
+Mean Recall: 0.5721
+----------------------------------
+Class: Non-Empty (White)
+Mean IoU: 0.4828
+Mean Dice: 0.6467
+Mean Precision: 0.8363
+Mean Recall: 0.5423
+----------------------------------
+Global Accuracy (average across images): 0.5691
+Mean genericSegEvaluation Error: 0.4309
