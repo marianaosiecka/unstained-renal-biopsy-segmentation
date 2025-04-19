@@ -19,6 +19,6 @@ The **data collection** in this repository comprises samples of Formalin-fixated
 The glass microscope slides were converted into high-resolution digital images by high-speed scanning using a Nanozoomer S60 Digital Slide Scanner (Hamamatsu Photonics; Hamamatsu, Japan) at 40x magnification. A total of 13 WSIs were produced, and tiles of 1024x1024 dimensions were extracted from them. The dataset contains both the original tiles and corresponding annotations, where **5 classes where considered: glomeruli (blue), tubules (magenta), interstitium (green), vessels (orange) and ignore/empty space (yellow)**.
 
 
-This [file]([https://github.com/marianaosiecka/unstained-renal-biopsy-segmentation/tree/main/dataset/](https://github.com/marianaosiecka/unstained-renal-biopsy-segmentation/blob/main/dataset/Info%20Dataset.xlsx)) summarises information regarding the dataset. 
+This [file](https://github.com/marianaosiecka/unstained-renal-biopsy-segmentation/blob/main/dataset/Info%20Dataset.xlsx) summarises information regarding the dataset. 
 
 
