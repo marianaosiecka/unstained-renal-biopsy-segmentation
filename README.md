@@ -1,12 +1,14 @@
-# unstained-renal-biopsy-segmentation
+# Unstained renal brightfield microscopy images segmentation
 This code is part of experimental research that applies state-of-the-art segmentation models and machine learning techniques to segment unstained renal biopsy samples.
 
 There are two segmentation approaches in this repository, a **shallow approach** using machine learning techniques such as **K-NN** and **K-Means**, and a **deep-learning** approach using **SAM**, **SAM2**, and **U-Net**.
 
 For further instructions on how to execute our code access the corresponding READMEs.
+* [Shallow Approach README](https://github.com/marianaosiecka/unstained-renal-biopsy-segmentation/tree/main/shallow-techniques)
+* [Deep Learning Approach README](https://github.com/marianaosiecka/unstained-renal-biopsy-segmentation/tree/main/deep-learning)
 
-<ul>
-    <li> [Shallow Approach README]()
-    <li> [Deep Learning Approach README]()
-</ul>
+---
 
+The shallow approach code was developed by **Enzo Lopes** and **Yunnie Zita**.
+
+The deep learning approach code was developed by **Mariana Carvalho**.
